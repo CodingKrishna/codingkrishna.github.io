@@ -1,0 +1,102 @@
+{"questions":[
+    {
+      "questionId": 1,
+      "question": "Inventor of java?",
+      "anslist":["Nayan.c", "Ärmesh", "Denish Richie", "Kiran.DY"],
+      "answer": "1",
+      "language": "java",
+      "languageId": 1,
+      "topicName": "introduction",
+      "topicId":1,
+      "complexity": "low"
+    },
+    {
+      "questionId": 2,
+      "question": "how is java?",
+      "anslist":["Easy", "Difficult", "moderate", "nonoe"],
+      "answer": "1",
+      "language": "java",
+      "languageId": 1,
+      "topicName": "introduction",
+      "topicId":1,
+      "complexity": "low"
+    },
+    {
+      "questionId": 3,
+      "question": "Which of the following encapsulates an SQL statement which is passed to the database to be parsed, compiled, planned and executed?",
+      "anslist":["DriverManager", "JDBC driver", "Connection", "Statement"],
+      "answer": "Statement",
+      "language": "java",
+      "languageId": 3,
+      "topicName": "JDBC Connection",
+      "topicId":1,
+      "complexity": "low"
+    },
+    {
+      "questionId": 4,
+      "question": "Which method is used to perform DML statements in JDBC?",
+      "anslist":["execute()", "executeQuery()", "executeUpdate()", "executeResult()"],
+      "answer": "executeUpdate()",
+      "language": "java",
+      "languageId": 3,
+      "topicName": "JDBC Connection",
+      "topicId":1,
+      "complexity": "low"
+    },
+    {
+      "questionId": 5,
+      "question": "Which of the following methods are needed for loading a database driver in JDBC?",
+      "anslist":["registerDriver() method", "Class.forName()", "Both A and B", "getConnection()"],
+      "answer": "Both A and B",
+      "language": "java",
+      "languageId": 3,
+      "topicName": "JDBC Connection",
+      "topicId":1,
+      "complexity": "low"
+    },
+    {
+      "questionId": 6,
+      "question": "Can servlet class declare constructor with ServletConfig object as an argument?",
+      "anslist":["True", "False"],
+      "answer": "False",
+      "language": "Servlets",
+      "languageId": 4,
+      "topicName": "What Is HTTP",
+      "topicId":1,
+      "complexity": "low"
+    },
+    {
+      "questionId": 7,
+      "question": "Which of the following code is used to get an attribute in a HTTP Session object in servlets?",
+      "anslist":["session.getAttributeData(String name)", "session.alterAttribute(String name)","session.setAttribute(String name)","session.getAttribute(String name)"],
+      "answer": "session.getAttribute(String name)",
+      "language": "Servlets",
+      "languageId": 4,
+      "topicName": "What Is HTTP",
+      "topicId":1,
+      "complexity": "low"
+    },
+    {
+      "questionId": 8,
+      "question": "How is the dynamic interception of requests and responses to transform the information done?",
+      "anslist":["servlet container", "servlet config","servlet context","servlet filter"],
+      "answer": "servlet filter",
+      "language": "Servlets",
+      "languageId": 4,
+      "topicName": "What Is HTTP",
+      "topicId":1,
+      "complexity": "low"
+    },
+     {
+      "questionId": 9,
+      "question": "RequestDispatcher object is used?",
+      "anslist":["to include other resources", "to include an image","to include xml object","to include e-mailing response"],
+      "answer": "to include other resourcesr",
+      "language": "Servlets",
+      "languageId": 4,
+      "topicName": "What Is HTTP",
+      "topicId":1,
+      "complexity": "low"
+    }
+  ]
+}
