@@ -1,0 +1,18 @@
+{
+	"interviewquestions": [{
+			"courseId": 1,
+			"urls": [
+				"https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/java/2-datatypes/FirstForEachLoop.java",
+				"https://raw.githubusercontent.com/pioneercoders/pc-tutorials/master/java/2-datatypes/datatypes_tutorial.md",
+				"https://raw.githubusercontent.com/pioneercoders/pioneercoders/master/assets/Java-interview-questions.md",
+				"https://raw.githubusercontent.com/snowdream/115-Java-Interview-Questions-and-Answers/master/en/general.md"
+			]
+		},
+		{
+			"courseId": 2,
+			"urls": [
+				"https://raw.githubusercontent.com/pioneercoders/pioneercoders/master/assets/JavaScript-interview-questions.md"
+			]
+		}
+	]
+}
