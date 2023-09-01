@@ -2463,6 +2463,15 @@
 				},
 				{
 					"topicId": 6,
+					"name": "Request Validation & Exception Handling ",
+					"videoId": "gPnd-hzM_6A",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 7,
 					"name": "Logging with SL4J and Logback",
 					"videoId": "vHoHUo6gRQE",
 					"videoURL": "",
@@ -2471,7 +2480,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 7,
+					"topicId": 8,
 					"name": "Spring boot with Swagger",
 					"videoId": "2bt11jYIp6E",
 					"videoURL": "",
@@ -2480,7 +2489,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 8,
+					"topicId": 9,
 					"name": "Spring boot with Profiles",
 					"videoId": "T5Y9fq3TWto",
 					"videoURL": "",
@@ -2489,7 +2498,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 9,
+					"topicId": 10,
 					"name": "Spring Boot with External Tomcat Deployment",
 					"videoId": "9nDSeIyWTAc",
 					"videoURL": "",
@@ -2498,7 +2507,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 10,
+					"topicId": 11,
 					"name": "Spring Security : Basic Auth",
 					"videoId": "J8I3s0sSP0c",
 					"videoURL": "",
@@ -2507,7 +2516,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 11,
+					"topicId": 12,
 					"name": "Spring Security : JWT ",
 					"videoId": "rBNOc4ymd1E",
 					"videoURL": "",
@@ -2516,7 +2525,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 12,
+					"topicId": 13,
 					"name": "Spring Data JPA",
 					"videoId": "XszpXoII9Sg",
 					"videoURL": "",
@@ -2525,7 +2534,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 13,
+					"topicId": 14,
 					"name": "Spring Data JPA - One To Many",
 					"videoId": "8qhaDBCJh6I",
 					"videoURL": "",
@@ -2534,7 +2543,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 14,
+					"topicId": 15,
 					"name": "Spring Data JPA Transaction",
 					"videoId": "95kxPSbHzVg",
 					"videoURL": "",
@@ -2543,7 +2552,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 15,
+					"topicId": 16,
 					"name": "Spring Boot: Send Email",
 					"videoId": "kyL0m9y1n0A",
 					"videoURL": "",
@@ -2552,7 +2561,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 16,
+					"topicId": 17,
 					"name": "Spring Boot: Send SMS/OTP",
 					"videoId": "lJxjTLU9pGs",
 					"videoURL": "",
@@ -2561,7 +2570,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 17,
+					"topicId": 18,
 					"name": "Spring Boot: Multi-Threading",
 					"videoId": "3rJBLFA95Io",
 					"videoURL": "",
