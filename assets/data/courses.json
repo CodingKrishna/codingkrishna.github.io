@@ -2462,8 +2462,8 @@
 			"type": "Frameworks",
 			"topics": [{
 					"topicId": 1,
-					"name": "Introduction",
-					"videoId": "iCQspqBpOB0",
+					"name": "Spring Vs Spring Boot",
+					"videoId": "zp2tqnpZiAU",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
@@ -2472,7 +2472,7 @@
 				{
 					"topicId": 2,
 					"name": "Spring Boot Architecture",
-					"videoId": "lX0PzE0Dho0",
+					"videoId": "qlygg_H1M20",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
@@ -2489,8 +2489,8 @@
 				},
 				{
 					"topicId": 4,
-					"name": "Integrating Tomcat",
-					"videoId": "6LO40oH5abg",
+					"name": "Spring Boot CRUD",
+					"videoId": "voA01jXkXtk",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
@@ -2498,8 +2498,8 @@
 				},
 				{
 					"topicId": 5,
-					"name": "Creating first MVC Web App 1",
-					"videoId": "bnB4x-oAd_M",
+					"name": "Spring boot with Hibernate",
+					"videoId": "7h93K98kSV8",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
@@ -2507,8 +2507,8 @@
 				},
 				{
 					"topicId": 6,
-					"name": "Creating first MVC Web App 2",
-					"videoId": "qXIESogSi_Q",
+					"name": "Logging with SL4J and Logback",
+					"videoId": "vHoHUo6gRQE",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
@@ -2516,8 +2516,8 @@
 				},
 				{
 					"topicId": 7,
-					"name": "controller",
-					"videoId": "HokftiwyUuU",
+					"name": "swagger",
+					"videoId": "2bt11jYIp6E",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
@@ -2525,8 +2525,17 @@
 				},
 				{
 					"topicId": 8,
-					"name": "RequestMapping",
-					"videoId": "myzMVndhBTk",
+					"name": "Profiles",
+					"videoId": "T5Y9fq3TWto",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 9,
+					"name": "Spring Security : Basic Auth",
+					"videoId": "J8I3s0sSP0c",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
