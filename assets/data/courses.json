@@ -2526,7 +2526,7 @@
 				},
 				{
 					"topicId": 7,
-					"name": "swagger",
+					"name": "Spring boot with Swagger",
 					"videoId": "2bt11jYIp6E",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
@@ -2535,7 +2535,7 @@
 				},
 				{
 					"topicId": 8,
-					"name": "Profiles",
+					"name": "Spring boot with Profiles",
 					"videoId": "T5Y9fq3TWto",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
@@ -2544,6 +2544,15 @@
 				},
 				{
 					"topicId": 9,
+					"name": "Spring Boot with External Tomcat Deployment",
+					"videoId": "9nDSeIyWTAc",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 10,
 					"name": "Spring Security : Basic Auth",
 					"videoId": "J8I3s0sSP0c",
 					"videoURL": "",
@@ -2552,7 +2561,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 10,
+					"topicId": 11,
 					"name": "Spring Security : JWT ",
 					"videoId": "rBNOc4ymd1E",
 					"videoURL": "",
@@ -2561,7 +2570,16 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 11,
+					"topicId": 12,
+					"name": "Spring Data JPA",
+					"videoId": "XszpXoII9Sg",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 13,
 					"name": "Spring Data JPA - One To Many",
 					"videoId": "8qhaDBCJh6I",
 					"videoURL": "",
@@ -2570,24 +2588,14 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 12,
+					"topicId": 14,
 					"name": "Spring Data JPA Transaction",
 					"videoId": "95kxPSbHzVg",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
-				},
-				{
-					"topicId": 13,
-					"name": "Spring Data JPA",
-					"videoId": "XszpXoII9Sg",
-					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
-					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
-					"projectUrl": "http://www.github.com"
 				}
-				
 			]
 		},
 		
