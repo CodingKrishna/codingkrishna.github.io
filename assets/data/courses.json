@@ -1120,7 +1120,7 @@
 			"type": "Frameworks",
 			"topics": [
 				{
-					"topicId": 0,
+					"topicId": 1,
 					"name": "Spring Core",
 					"videoId": "hYSMHiJZcBM",
 					"videoURL": "",
@@ -1129,18 +1129,9 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 1,
-					"name": "Introduction To Spring MVC",
-					"videoId": "iCQspqBpOB0",
-					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
-					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
-					"projectUrl": "http://www.github.com"
-				},
-				{
 					"topicId": 2,
-					"name": "Spring MVC Architecture",
-					"videoId": "lX0PzE0Dho0",
+					"name": "Spring MVC",
+					"videoId": "C133PLp65eg",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
@@ -1148,58 +1139,13 @@
 				},
 				{
 					"topicId": 3,
-					"name": "Installation",
-					"videoId": "4eJeT4vWASg",
+					"name": "Spring AOP",
+					"videoId": "xdl1b97GANk",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				},
-				{
-					"topicId": 4,
-					"name": "Integrating Tomcat",
-					"videoId": "6LO40oH5abg",
-					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
-					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
-					"projectUrl": "http://www.github.com"
-				},
-				{
-					"topicId": 5,
-					"name": "Creating first MVC Web App 1",
-					"videoId": "bnB4x-oAd_M",
-					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
-					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
-					"projectUrl": "http://www.github.com"
-				},
-				{
-					"topicId": 6,
-					"name": "Creating first MVC Web App 2",
-					"videoId": "qXIESogSi_Q",
-					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
-					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
-					"projectUrl": "http://www.github.com"
-				},
-				{
-					"topicId": 7,
-					"name": "controller",
-					"videoId": "HokftiwyUuU",
-					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
-					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
-					"projectUrl": "http://www.github.com"
-				},
-				{
-					"topicId": 8,
-					"name": "RequestMapping",
-					"videoId": "myzMVndhBTk",
-					"videoURL": "",
-					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
-					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
-					"projectUrl": "http://www.github.com"
-				}
 			]
 		},
 		{
@@ -2591,6 +2537,33 @@
 					"topicId": 14,
 					"name": "Spring Data JPA Transaction",
 					"videoId": "95kxPSbHzVg",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 15,
+					"name": "Spring Boot: Send Email",
+					"videoId": "kyL0m9y1n0A",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 16,
+					"name": "Spring Boot: Send SMS/OTP",
+					"videoId": "lJxjTLU9pGs",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 17,
+					"name": "Spring Boot: Multi-Threading",
+					"videoId": "3rJBLFA95Io",
 					"videoURL": "",
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
