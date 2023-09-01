@@ -1115,10 +1115,20 @@
 		},
 		{
 			"courseId": 12,
-			"name": "Spring MVC",
-			"description": "Spring MVC",
+			"name": "Spring",
+			"description": "Spring",
 			"type": "Frameworks",
-			"topics": [{
+			"topics": [
+				{
+					"topicId": 0,
+					"name": "Spring Core",
+					"videoId": "hYSMHiJZcBM",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
 					"topicId": 1,
 					"name": "Introduction To Spring MVC",
 					"videoId": "iCQspqBpOB0",
