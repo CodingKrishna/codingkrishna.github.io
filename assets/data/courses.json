@@ -1145,7 +1145,7 @@
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/empty_tutorial.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
-				},
+				}
 			]
 		},
 		{
