@@ -2004,7 +2004,7 @@
 			"courseId": 21,
 			"name": "SDLC",
 			"description": "SDLC",
-			"type": "IDX",
+			"type": "PMT",
 			"topics": [{
 					"topicId": 1,
 					"name": "Introduction",
@@ -2137,7 +2137,7 @@
 			"courseId": 22,
 			"name": "Git",
 			"description": "Git",
-			"type": "IDX",
+			"type": "PMT",
 			"topics": [{
 					"topicId": 1,
 					"name": "Introduction",
@@ -2162,7 +2162,7 @@
 			"courseId": 23,
 			"name": "CI/CD",
 			"description": "CI/CD",
-			"type": "IDX",
+			"type": "PMT",
 			"topics": [{
 					"topicId": 1,
 					"name": "CI/CD",
@@ -2239,7 +2239,7 @@
 			"courseId": 25,
 			"name": "AWS",
 			"description": "Aws ",
-			"type": "IDX",
+			"type": "PMT",
 			"topics": [
 				{
 					"topicId": 1,
@@ -2310,7 +2310,7 @@
 			"courseId": 26,
 			"name": "Debugging",
 			"description": "debugging",
-			"type": "IDX",
+			"type": "PMT",
 			"topics": [{
 					"topicId": 1,
 					"name": "Postman",
@@ -2362,7 +2362,7 @@
 			"courseId": 27,
 			"name": "Kafka",
 			"description": "Kafka",
-			"type": "IDX",
+			"type": "PMT",
 			"topics": [{
 					"topicId": 1,
 					"name": "Kafka Intro",
