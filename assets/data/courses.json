@@ -2137,7 +2137,7 @@
 			"courseId": 22,
 			"name": "Git",
 			"description": "Git",
-			"type": "PMT",
+			"type": "Tools",
 			"topics": [{
 					"topicId": 1,
 					"name": "Introduction",
@@ -2162,7 +2162,7 @@
 			"courseId": 23,
 			"name": "CI/CD",
 			"description": "CI/CD",
-			"type": "PMT",
+			"type": "Tools",
 			"topics": [{
 					"topicId": 1,
 					"name": "CI/CD",
@@ -2310,7 +2310,7 @@
 			"courseId": 26,
 			"name": "Debugging",
 			"description": "debugging",
-			"type": "PMT",
+			"type": "Tools",
 			"topics": [{
 					"topicId": 1,
 					"name": "Postman",
@@ -2362,7 +2362,7 @@
 			"courseId": 27,
 			"name": "Kafka",
 			"description": "Kafka",
-			"type": "PMT",
+			"type": "Frameworks",
 			"topics": [{
 					"topicId": 1,
 					"name": "Kafka Intro",
