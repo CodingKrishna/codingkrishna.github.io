@@ -2739,6 +2739,57 @@
 					"projectUrl": "http://www.github.com"
 				}
 			]
+		},
+		{
+			"courseId": 101,
+			"name": "Interview Questions",
+			"description": "Interview Questions",
+			"type": "Programming",
+			"topics": [{
+					"topicId": 1,
+					"name": "Java",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/Java-interview-questions.md",
+				 	"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/Java-interview-questions.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/Java-interview-questions.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 2,
+					"name": "JDBC",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/JDBC-interview-questions.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/JDBC-interview-questions.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/JDBC-interview-questions.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 3,
+					"name": "Servlets",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/Servlets-interview-questions.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/Servlets-interview-questions.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/Servlets-interview-questions.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 4,
+					"name": "JS",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/JavaScript-interview-questions.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/JavaScript-interview-questions.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/JavaScript-interview-questions.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				}
+			]
 		}
 
 	]
