@@ -2788,6 +2788,28 @@
 					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/JavaScript-interview-questions.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 5,
+					"name": "Angular",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/angular-simple-questions.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/angular-medium-questions.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/angular-complex-questions.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 6,
+					"name": "HTML",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/html-simple-questions.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/html-medium-questions.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/html-complex-questions.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
 				}
 			]
 		}
