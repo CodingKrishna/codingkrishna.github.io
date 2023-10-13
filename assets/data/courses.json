@@ -2810,6 +2810,17 @@
 					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/html-complex-questions.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 7,
+					"name": "DBMS",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/dbms-simple-questions.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/dbms-medium-questions.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/dbms-complex-questions.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
 				}
 			]
 		}
