@@ -2596,7 +2596,7 @@
 			"description": "Programs",
 			"type": "Programming",
 			"topics": [{
-					"topicId": 0,
+					"topicId": 1,
 					"name": "Operators",
 					"videoId": "",
 					"videoURL": "",
@@ -2607,7 +2607,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 1,
+					"topicId": 2,
 					"name": "Statements",
 					"videoId": "",
 					"videoURL": "",
@@ -2618,7 +2618,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 2,
+					"topicId": 3,
 					"name": "Loops",
 					"videoId": "",
 					"videoURL": "",
@@ -2629,7 +2629,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 3,
+					"topicId": 4,
 					"name": "Functions",
 					"videoId": "",
 					"videoURL": "",
@@ -2640,7 +2640,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 4,
+					"topicId": 5,
 					"name": "Strings",
 					"videoId": "",
 					"videoURL": "",
@@ -2651,7 +2651,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 5,
+					"topicId": 6,
 					"name": "Arrays",
 					"videoId": "",
 					"videoURL": "",
@@ -2662,7 +2662,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 6,
+					"topicId": 7,
 					"name": "Logical",
 					"videoId": "",
 					"videoURL": "",
@@ -2673,7 +2673,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 7,
+					"topicId": 8,
 					"name": "Advanced Functions",
 					"videoId": "",
 					"videoURL": "",
@@ -2684,7 +2684,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 8,
+					"topicId": 9,
 					"name": "Matrix",
 					"videoId": "",
 					"videoURL": "",
@@ -2695,7 +2695,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 9,
+					"topicId": 10,
 					"name": "Data Structures",
 					"videoId": "",
 					"videoURL": "",
@@ -2706,7 +2706,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 10,
+					"topicId": 11,
 					"name": "Sorting",
 					"videoId": "",
 					"videoURL": "",
@@ -2717,7 +2717,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 11,
+					"topicId": 12,
 					"name": "Searching",
 					"videoId": "",
 					"videoURL": "",
@@ -2728,7 +2728,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 12,
+					"topicId": 13,
 					"name": "Interview Set1",
 					"videoId": "",
 					"videoURL": "",
@@ -2739,7 +2739,7 @@
 					"projectUrl": "http://www.github.com"
 				},
 				{
-					"topicId": 13,
+					"topicId": 14,
 					"name": "Interview Set2",
 					"videoId": "",
 					"videoURL": "",
