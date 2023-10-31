@@ -2596,6 +2596,17 @@
 			"description": "Programs",
 			"type": "Programming",
 			"topics": [{
+					"topicId": 0,
+					"name": "Operators",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/java/operators.md",
+				 	"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/node/operators.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/programs/python/operators.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
 					"topicId": 1,
 					"name": "Statements",
 					"videoId": "",
@@ -2852,6 +2863,39 @@
 					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/react-simple-questions.md",
 					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/react-medium-questions.md",
 					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/react-complex-questions.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 11,
+					"name": "AWS",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/aws-simple-questions.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/aws-medium-questions.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/aws-complex-questions.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 12,
+					"name": "TS",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/ts-simple-questions.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/ts-medium-questions.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/ts-complex-questions.md",
+					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
+					"projectUrl": "http://www.github.com"
+				},
+				{
+					"topicId": 13,
+					"name": "BootStrap",
+					"videoId": "",
+					"videoURL": "",
+					"textTutorialURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/bootstrap-simple-questions.md",
+					"nodeProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/bootstrap-medium-questions.md",
+					"pythonProgramsURL": "https://raw.githubusercontent.com/pioneercoders/tutorials/master/interview/bootstrap-complex-questions.md",
 					"code": "public class Main { public static void main(String[] args) {System.out.println(\"Hello,World!\");}}",
 					"projectUrl": "http://www.github.com"
 				}
